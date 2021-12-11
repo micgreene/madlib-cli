@@ -27,8 +27,8 @@
 
 ### Pull Request
 
-+ [snakes-cafe/pull/1](URL 'https://github.com/micgreene/snakes-cafe/pull/1')
++ [madlib-cli/pull/1](URL 'https://github.com/micgreene/madlib-cli/pull/1')
 
 ### README
 
-+ [github.com/micgreene/snakes-cafe/blob/master/README.md](URL 'https://github.com/micgreene/snakes-cafe/blob/master/README.md')
++ [README.md](URL 'https://github.com/micgreene/madlib-cli/blob/dev/README.md')
