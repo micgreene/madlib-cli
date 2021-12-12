@@ -1,6 +1,6 @@
 # Code Fellows 401n4 - Advanced Software Development in Python
 
-## Lab 03: Intro to Python
+## Lab 03: Errors, Files, and Packaging
 
 + *In this app we create a command line application which takes advantage of Python’s built in capabilities for reading and writing files.*
 
