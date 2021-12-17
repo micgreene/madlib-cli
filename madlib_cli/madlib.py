@@ -166,7 +166,7 @@ if __name__ == '__main__':
   - user_template: the output of merge(a,c): a string of the completed Mad Lib
   - user_template is then printed to the console inside a wrapper and the user is then requested as to whether they would like to save their text to a new file
   '''
-  a, b = parse_template(read_template('../assets/dark_and_stormy_night_template.txt'))
+  a, b = parse_template(read_template('assets/dark_and_stormy_night_template.txt'))
   c = user_input_func(b)  
   user_template = merge(a,c)
 
